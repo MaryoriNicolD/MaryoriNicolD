@@ -31,10 +31,6 @@ Me encanta **los conejitos**, especialmente los de peluche y cualquier cosa que 
 
 #### 💖 *"La vida es mejor cuando se comparte. ¡Hablemos sobre proyectos y aprendizaje!"* 
 
-#### 🌸 **Contáctame:** 
-
-- [GitHub](https://github.com/Maryori)
-- [LinkedIn](https://www.linkedin.com/in/maryori)
 
 ---
 

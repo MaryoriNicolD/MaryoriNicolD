@@ -25,15 +25,14 @@
     </td>
     <td align="left">
       <p>
-        🌙 &nbsp;<em>Estudiante de Ingeniería Industrial.</em><br><br>
-        🌙 &nbsp;<em>Profesional en gestión y mantenimiento de maquinaria industrial.</em><br><br>
+        🌙 &nbsp;<em>Estudiante de Ingeniería Industrial.</em><br>
+        🌙 &nbsp;<em>Profesional en gestión y mantenimiento de maquinaria industrial.</em><br>
 
-        🎨 &nbsp;Dibujante por pasión.<br>
-        🌊 &nbsp;La playa y el anime son mi mundo.<br>
-        ✨ &nbsp;Detallista, puntual, comprometida.
-      </p>
-    </td>
-  </tr>
+        🎨 Dibujante por pasión.
+        🌊 La playa y el anime son mi mundo.
+        ✨ Detallista, puntual, comprometida.
+
+
 </table>
 
 <br>

@@ -1,39 +1,49 @@
-# ¡Hola! Soy **Maryori** 💖✨
-#### De Arequipa, amante de los conejitos 🐰, la música suave y los lenguajes 🎶💻
+<div align="center">
 
-Bienvenidos a mi perfil de GitHub. Aquí comparto mis proyectos, mis aprendizajes y un poco de mi vida digital. Si te gustan los **conejitos**, la **música ochentera animada** y aprender sobre **lenguajes**, ¡estás en el lugar correcto!
+<!-- WAVE HEADER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:5fa8d3&height=120&section=header&animation=fadeIn"/>
 
----
+<!-- GAME OF LIFE -->
+# My GitHub contributions as a Game of Life
+[![GitHub Game of Life](https://github4life.herokuapp.com/MaryoriNicolD.gif?z=6)](https://github4life.herokuapp.com/MaryoriNicolD)
 
-### 🎧 **Mi estilo musical:**
-¡La música suave y de los 80's me hace vibrar! 🎶✨ Piensa en sonidos suaves, con un toque animado y colorido, algo como una mezcla de **chill-out** y **retro pop**.
+<!-- TYPING ANIMADO -->
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&size=22&pause=1200&color=5FA8D3&center=true&vCenter=true&width=500&lines=hola%2C+me+dicen+mayo+%F0%9F%8C%8A;fanática+del+anime+%E2%9C%A8;amante+de+la+noche+y+el+mar+%F0%9F%8C%99" alt="Typing SVG" />
 
----
+<!-- SEPARADOR OLA -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1b2a,100:1b4965&height=2"/>
 
-### 🐰 **Lo que me inspira:**
-Me encanta **los conejitos**, especialmente los de peluche y cualquier cosa que sea linda y reconfortante. Si también te gustan, ¡definitivamente seremos amigos!
+</div>
 
----
+<br>
 
-### 🌸 **Lenguajes y más:**
-- Aprendiendo y trabajando con **lenguajes de programación**.
-- Siempre en la búsqueda de nuevos desafíos para mejorar mis habilidades de **desarrollo web**, **frontend**, y un poco de **back-end** también.
-- Siempre abierta a colaborar y compartir ideas con otros que tengan la misma pasión por la tecnología.
+<!-- FILA: gif saludo + descripción -->
+<table align="center" border="0" cellpadding="16">
+  <tr>
+    <td align="center" width="180">
+      <img src="saludo.gif" width="150" style="border-radius: 16px; border: 2px solid #5fa8d3"/>
+    </td>
+    <td align="left">
+      <p>
+        🌙 &nbsp;<em>Ingeniera de producción en formación.</em><br><br>
+        🎨 &nbsp;Dibujante por pasión.<br>
+        🌊 &nbsp;La playa y el anime son mi mundo.<br>
+        ✨ &nbsp;Detallista, puntual, comprometida.
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-### 📚 **Conectemos:**
-- **Lenguajes que me gustan:** JavaScript, HTML/CSS, Python
-- **Mis herramientas favoritas:** VS Code, GitHub, Figma
-- **Mis proyectos:** ¡Pronto compartiré más sobre ellos! 
+<!-- GIF dibujos centrado -->
+<div align="center">
+  <img src="dibujos.gif" width="260" style="border-radius: 16px; border: 2px solid #5fa8d3"/>
+</div>
 
----
+<br>
 
-#### 💖 *"La vida es mejor cuando se comparte. ¡Hablemos sobre proyectos y aprendizaje!"* 
-
-
----
-
-> **Un toque rosa con celeste:** ¡La combinación perfecta para sentirme en paz con mi entorno y mi trabajo!
-
-_Gracias por visitar mi perfil 💖_  
+<!-- WAVE FOOTER -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5fa8d3,50:1b4965,100:0d1b2a&height=100&section=footer&animation=fadeIn"/>
+</div>

@@ -21,11 +21,13 @@
 <table align="center" border="0" cellpadding="16">
   <tr>
     <td align="center" width="180">
-      <img src="saludo.gif" width="150" style="border-radius: 16px; border: 2px solid #5fa8d3"/>
+      <table border="0" cellpadding="4" bgcolor="#5fa8d3"><tr><td>
+        <img src="saludo.gif" width="140"/>
+      </td></tr></table>
     </td>
     <td align="left">
       <p>
-        🌙 &nbsp;<em>Ingeniera de producción en formación.</em><br><br>
+        🌙 &nbsp;<em>Estudiante de Ingeniería Industrial.</em><br><br>
         🎨 &nbsp;Dibujante por pasión.<br>
         🌊 &nbsp;La playa y el anime son mi mundo.<br>
         ✨ &nbsp;Detallista, puntual, comprometida.
@@ -38,7 +40,13 @@
 
 <!-- GIF dibujos centrado -->
 <div align="center">
-  <img src="dibujos.gif" width="260" style="border-radius: 16px; border: 2px solid #5fa8d3"/>
+  <table border="0" cellpadding="6" bgcolor="#5fa8d3">
+    <tr>
+      <td align="center">
+        <img src="dibujos.gif" width="260"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>

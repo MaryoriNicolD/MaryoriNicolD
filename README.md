@@ -7,8 +7,6 @@
 # My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://github4life.herokuapp.com/MaryoriNicolD.gif?z=6)](https://github4life.herokuapp.com/MaryoriNicolD)
 
-<!-- TYPING ANIMADO -->
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Serif&size=22&pause=1200&color=5FA8D3&center=true&vCenter=true&width=500&lines=hola%2C+me+dicen+mayo+%F0%9F%8C%8A;fanática+del+anime+%E2%9C%A8;amante+de+la+noche+y+el+mar+%F0%9F%8C%99" alt="Typing SVG" />
 
 <!-- SEPARADOR OLA -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1b2a,100:1b4965&height=2"/>
